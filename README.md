@@ -1,0 +1,5 @@
+- 👋 Hello World, I’m @Nxages or Luã.
+- 👀 I’m interested in a lot of codes.
+- 🌱 I’m currently learning Java, HTML (CSS, JS & PHP), Python, C#, MYSQL and such more.
+- 💞️ I’m looking to collaborate on everything that i can learn.
+- 📫 How to reach me (nxages@outlook.com).
