@@ -1,29 +1,30 @@
-- 👋 Hello World, I’m / Olá, eu sou: @Nxages or Luã.
-- 🌱 I’m currently learning / Estudando: Java, HTML (CSS, JS & PHP), Python, C#, MYSQL and such more.
-- 💞️ I’m looking to collaborate on everything that i can learn / Procuro colaborar e aprender tudo que puder.
-- 📫 How to reach me / Contate-me: (nxages@outlook.com). 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=120&section=header"/>
 
-<div align="center">
-  <a href="https://github.com/Nxages">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nxages&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxages&layout=compact&langs_count=7&theme=dracula"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luã+Augusto+Santana;Analista+de+Dados!;Graduado:+Análise+e+Desenvolvimento+de+Sistemas;Data+Science!+:%29)](https://git.io/typing-svg)
+
+</br>
+
+<div align="center">  
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nxages&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=0066CC&text_color=c9d1d9&bg_color=0d1117" alt="Luã Augusto Santana Status" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxages&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:60px;" src="https://instagram.fgru5-1.fna.fbcdn.net/v/t51.2885-15/275928035_277520977904668_5816036547420822488_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fgru5-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=OtRRnlZEYGsAX_hvl1j&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=Mjc5NzQ4NTYxOTUxODg3NjczMg%3D%3D.2-ccb7-4&oh=00_AT-gyYZT3on0R6D53aZKlo0DVLIXn3BO4lB10K98wiVZVQ&oe=623CFEA5&_nc_sid=30a2ef">
+
+</br>
+
+<div align="left"> 
+  <a href = "mailto:cmp.1a.nxages@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lua-augusto-santana-7581b0232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/nxages.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lua-augusto-santana-7581b0232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Nxages/Nxages/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+ ### Principais habilidades | Main skills:
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+![MYSQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+
+### Estudando no momento | Studying in this moment:
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MYSQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=120&section=footer"/>
