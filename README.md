@@ -4,10 +4,10 @@
 
 ```python
 
-# Trabalhando: Assistente Técnico na empresa Telefonica
-# Formado: Analise e Desenvolvimento de Sistemas
+# Trabalhando: Assistente Técnico na Telefonica
+Formado: Analise e Desenvolvimento de Sistemas
 Especializando: Data Science e Machine Learning
-Estudando: Python[Pandas, Matplotlib, Seaborn, Numpy] e SQL Server[MySQL, SMSS]
+Estudando: Python[Pandas, Matplotlib, Seaborn, Numpy] e SQL Server[MySQL, SSMS]
 
 ```
 <!-- ilovehersomuch -->
