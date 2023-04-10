@@ -1,3 +1,16 @@
+## 💜 Olá, meu nome é <strong>Luã!</strong>
+
+> Desenvolvedor full-stack de Python, atualmente atuando como Analista de Dados / Data Science & Machine Learning.
+
+🔭 Atualmente estou trabalhando em um projeto de análise e manipulação de dados usando Python & Pandas afim de ter sua visualização através do Power BI.
+
+💬 Entre em contato comigo através do LinkedIn ou meu email abaixo!
+
+[![Linkedin: Luã Augusto Santana](https://img.shields.io/badge/-Luã-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+
+----
+
+
 ```python
 from Desenvolvedor import Nxages
 
@@ -7,6 +20,7 @@ class sobreMim(Nxages):
         self.area = 'Análise de dados / Machine Learning'
         self.trabalho = 'Vivo - Telefonica'
         self.local = 'SP - São Paulo, BR'
+        self.email = 'lua_augusto@hotmail.com'
 
 class skills(Nxages):
     def __init__(self):
