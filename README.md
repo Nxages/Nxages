@@ -4,8 +4,8 @@
 
 ```python
 
-Trabalhando: Assistente Técnico - Telefonica
-Formado: Analise e Desenvolvimento de Sistemas
+# Trabalhando: Assistente Técnico - Telefonica
+# Formado: Analise e Desenvolvimento de Sistemas
 
 ```
 > Estudando
