@@ -1,13 +1,13 @@
 ### 💜 Olá, meu nome é <strong>Luã Augusto Santana!</strong>
 
-> Desenvolvedor full-stack de Python, atualmente focado como Analista de Dados / Data Science & Machine Learning.
+> Desenvolvedor Python, atualmente focado em Análise de Dados, Data Science e DBA.
 
 ```python
 
 # Trabalhando: Assistente Técnico na Telefonica
-# Formando: Analise e Desenvolvimento de Sistemas
-# Especializando: Data Science e Machine Learning
-Estudando: Python[Pandas, Matplotlib, Seaborn, Numpy] e SQL Server[MySQL, SSMS]
+# Formado: Analise e Desenvolvimento de Sistemas
+# Especializando: Data Science, Machine Learning e DBA
+Estudando: Python e SQL Server.
 
 ```
 <!-- ilovehersomuch -->
