@@ -1,11 +1,11 @@
-### 💜 Olá, meu nome é <strong>Luã Augusto Santana!</strong>
+### Olá, meu nome é <strong>Luã Augusto Santana!</strong>
 
 > Desenvolvedor Python, atualmente focado em Análise de Dados, Data Science e DBA.
 
 ```python
 
-# Trabalhando: Assistente Técnico - Telefonica
-# Formado: Analise e Desenvolvimento de Sistemas
+# Trabalhando: Analista de Dados Jr - Telefonica
+# Formado: Análise e Desenvolvimento de Sistemas
 
 ```
 <div display = "inline">
