@@ -1,6 +1,6 @@
 ### Olá, meu nome é <strong>Luã Augusto Santana!</strong>
 
-> Desenvolvedor Python, atualmente focado em Análise de Dados, Data Science e DBA.
+> Sou um desenvolvedor/analista/DBA, atualmente focado em Análise de Dados, Data Science e DBA.
 
 ```python
 
