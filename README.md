@@ -1,5 +1,5 @@
 
-# Olá, sou [Luã Augusto Santana]!
+# Olá, sou Luã Augusto Santana!
 
 **DBA** com **2 anos de experiência** em **SQL Server**, apaixonado por otimizar performance e garantir segurança de dados. Também possuo conhecimentos em **Oracle**, **MySQL**, **PostgreSQL**, **MongoDB**, **Docker** e soluções em nuvem (**AWS**, **Azure**).
 
